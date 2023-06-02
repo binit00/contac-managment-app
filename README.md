@@ -29,5 +29,8 @@ The following technologies were used to build this app:
 - React Router v6
 - React Query
 - Redux
-
-
+# RUN PROJECT
+git clone https://github.com/binit00/contac-managment-app.git
+npm install
+npm start
+http://localhost:3000
